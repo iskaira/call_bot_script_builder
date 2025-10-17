@@ -1,0 +1,14 @@
+{
+  "debtor_name": "Jonathan Jone",
+  "total_amount": 125000,
+  "extension_amount": 25000,
+  "currency": "USD",
+  "due_date": "2025-06-01",
+  "days_overdue": 120,
+  "payment_methods": ["Bank Transfer", "Credit Card", "PayPal"],
+  "callback_number": "+1 415 555 0198",
+  "language": "en-US",
+  "company_name": "FinTrust",
+  "assistant_name": "Sophia",
+  "timezone": "America/New_York"
+}

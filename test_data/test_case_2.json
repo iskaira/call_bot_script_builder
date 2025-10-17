@@ -1,0 +1,14 @@
+{
+  "debtor_name": "Айдос Нурланов",
+  "total_amount": 350000,
+  "extension_amount": 50000,
+  "currency": "KZT",
+  "due_date": "2025-08-15",
+  "days_overdue": 45,
+  "payment_methods": ["Kaspi.kz", "Банковский перевод", "QIWI"],
+  "callback_number": "+7 777 000 11 22",
+  "language": "en",
+  "company_name": "QFinance",
+  "assistant_name": "Dana",
+  "timezone": "Asia/Almaty"
+}

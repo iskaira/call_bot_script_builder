@@ -1,0 +1,14 @@
+{
+  "debtor_name": "Maria Santos",
+  "total_amount": 800,
+  "extension_amount": 200,
+  "currency": "PHP",
+  "due_date": "2025-10-10",
+  "days_overdue": 5,
+  "payment_methods": ["GCash"],
+  "callback_number": "+63 912 345 6789",
+  "language": "en-PH",
+  "company_name": "QuickLoan",
+  "assistant_name": "Lara",
+  "timezone": "Asia/Manila"
+}
