@@ -64,3 +64,6 @@ python3 prompt_builder.py --input data.json --output final_prompt.md
 
 ---
 
+---
+Примечание - добавил валидацию, чтобы были все параметры в json.
+---
