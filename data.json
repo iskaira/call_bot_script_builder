@@ -1,0 +1,14 @@
+{
+ "debtor_name": "Viktor Pereira de Guzman",
+ "total_amount": 2382,
+ "extension_amount": 499,
+ "currency": "PHP",
+ "due_date": "2025-09-30",
+ "days_overdue": 12,
+ "payment_methods": ["GCash", "PayMaya", "Bank Transfer"],
+ "callback_number": "+63 960 000-00-00",
+ "language": "en-PH",
+ "company_name": "MoneyDog",
+ "assistant_name": "Mariel",
+ "timezone": "Asia/Manila"
+}
